@@ -8,7 +8,7 @@ public class Orange {
 		return prix;
 	}
 	public void setPrix(double prix){
-		if (prix<0) throw new RuntimeException("Le prix ne peut pas être négatif");
+		if (prix<0) throw new RuntimeException("Le prix ne peut pas ï¿½tre nï¿½gatif");
 		else
 			this.prix = prix;
 			
@@ -38,6 +38,6 @@ public class Orange {
 		return resultat;
 	}
 	
-	
+	//je fais un modification
 	
 }
