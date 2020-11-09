@@ -5,10 +5,10 @@ import static org.junit.Assert.*;
 import java.util.ArrayList;
 
 import org.junit.BeforeClass;
-import org.junit.Rule;
+
 import org.junit.Test;
-import org.junit.rules.ExpectedException;
-import org.junit.runners.Parameterized.BeforeParam;
+
+
 
 import pac1.Orange;
 import pac1.Panier;
