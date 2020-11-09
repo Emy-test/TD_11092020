@@ -23,7 +23,7 @@ public class OrangeTest {
 		assertEquals(false, o1.equals(new Orange(0.5, "Espagne"), o1));
 		assertEquals(false, o1.equals(new Orange(0.6, "France"), o1));
 		o1.setPrix(1);
-		o1.setPrix(-1);
+		//o1.setPrix(-1);
 	}
 
 }
